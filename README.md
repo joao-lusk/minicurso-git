@@ -1,0 +1,2 @@
+# minicurso-git
+SETEC - FATEC
